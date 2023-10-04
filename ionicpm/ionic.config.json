@@ -1,0 +1,7 @@
+{
+  "name": "ionicpm",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
